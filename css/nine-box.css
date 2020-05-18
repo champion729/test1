@@ -1,0 +1,21 @@
+* { margin: 0; padding: 0; }
+.all-box{
+	width: 100%;
+		
+	/*margin:auto;*/
+	display: flex;
+   flex-wrap: wrap;
+  /* position: relative;*/
+   /*margin-right:4.5%;*/
+	}
+
+.box-common{
+	background-color: orange;
+	border-radius:  10px;
+	width:30%;
+	padding-bottom: 30%;
+	margin:1.5%;
+    /*padding-left: width*1%;*/
+    
+      height: 0;
+			    }
